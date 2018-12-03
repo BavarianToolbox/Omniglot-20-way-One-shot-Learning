@@ -1,0 +1,12 @@
+sys
+os
+urllib.request
+glob
+zipfile
+numpy
+keras
+itertools
+tensorflow
+scipy
+matplotlib
+tabulate
