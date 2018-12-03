@@ -20,7 +20,7 @@ cd Omniglot-20-way-One-shot-Learning
 sudo pip install -r requirements.txt
 ```
 
-The downloading and extracting of the data is all handled in the notebook, so now you're ready to roll. Run the notebook. Use the Python3 kernel and the latest versions of tesorflow and keras.
+Then downloading and extracting of the data is all handled in the notebook, so now you're ready to roll. Run the notebook. Use the Python3 kernel and the latest versions of tesorflow and keras.
 
 ```
 jupyter notebook
